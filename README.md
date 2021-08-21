@@ -18,6 +18,11 @@
 + numpy
 + matplotlib
 
+# Model
++ 다음의 모델들을 model 폴더에 저정합니다.
+  + https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
+  + https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_recognition_resnet_model_v1.dat
+
 # Detail
 + 10번의 프레임동안 eye blink를 감지하고 저장합니다.
   + face detection 이후 eye crop을 진행한 뒤, 사전훈련된 model로 open, close를 classification합니다.
