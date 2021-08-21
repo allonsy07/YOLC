@@ -2,7 +2,7 @@
 ## CCP의 YOLC팀의 face recognition & blink detection 코드입니다.
   + 빵형의 개발도상국 코드를 기반으로 작성했습니다.
     + face recognition:
-     ++ YOUTUBE : https://www.youtube.com/watch?v=3LNHxezPi1I&list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK&index=61
+          + YOUTUBE : https://www.youtube.com/watch?v=3LNHxezPi1I&list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK&index=61
      + CODE : https://github.com/kairess/simple_face_recognition
     + eye blink detection:
      + YOUTUBE : https://www.youtube.com/watch?v=dJjzTo8_x3c&list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK&index=56
