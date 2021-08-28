@@ -17,6 +17,7 @@
 + tensorflow(keras)
 + numpy
 + matplotlib
++ imutils
 
 # Model
 + 다음의 모델들을 model 폴더에 저정합니다.
